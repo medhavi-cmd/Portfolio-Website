@@ -1,2 +1,10 @@
 @import "tailwindcss";
 
+body {
+  margin: 10px;
+  background: #030412;
+  font-family: "Funnel Display", sans-serif;
+  color: white;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
