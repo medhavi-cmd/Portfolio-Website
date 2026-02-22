@@ -4,6 +4,7 @@ import './index.css'
 import Hero from './sections/Hero.jsx'
 import Contact from './sections/Contact.jsx'
 import About from './sections/About.jsx'
+import Footer from './sections/Footer.jsx'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
     <Hero />
     <About />
     <Contact />
+    <Footer />
    </div>
   )
 }
