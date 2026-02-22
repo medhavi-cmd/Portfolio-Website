@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.5.0",
+    "cobe": "^0.6.5",
     "lucide": "^0.575.0",
     "lucide-react": "^0.575.0",
     "maath": "^0.10.8",
